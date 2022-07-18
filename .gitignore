@@ -1,0 +1,19 @@
+notebooks/.conda/environments.txt
+notebooks/.ipynb_checkpoints/Import_Marvels_Into_Neo4j-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/MarvelsU_CSV to Neo4j-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Neo4j_Musicians-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Read_Neo4j_py2neo-checkpoint.ipynb
+notebooks/.ipython/profile_default/history.sqlite
+notebooks/.ipython/profile_default/startup/README
+notebooks/.local/share/jupyter/nbsignatures.db
+notebooks/.local/share/jupyter/notebook_secret
+notebooks/.local/share/jupyter/runtime/jpserver-7-open.html
+notebooks/.local/share/jupyter/runtime/jpserver-7.json
+notebooks/.local/share/jupyter/runtime/jupyter_cookie_secret
+notebooks/.local/share/jupyter/runtime/kernel-082b5d54-53dd-499f-9901-9d5322d0e712.json
+notebooks/.local/share/jupyter/runtime/kernel-0136e4a2-69a3-43be-82ad-0a250636d062.json
+notebooks/.local/share/jupyter/runtime/kernel-db7d7891-7529-4b40-bb80-5ee3095c1997.json
+notebooks/.local/share/jupyter/runtime/kernel-f87061f4-694f-4d87-b9b0-89691b819fb5.json
+notebooks/.jupyter/migrated
+notebooks/.jupyter/lab/user-settings/@jupyterlab/extensionmanager-extension/plugin.jupyterlab-settings
+notebooks/.jupyter/lab/workspaces/default-37a8.jupyterlab-workspace
